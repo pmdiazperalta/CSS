@@ -1,0 +1,32 @@
+table,th,td {
+border: 1px solid black;
+}
+
+
+table{
+    border-collapse: collapse;
+    width: 80%;
+    margin: 10px;
+}
+
+
+th{
+    height: 50px;
+}
+/* sirve para ampliar el espacio alto en la cabecera */
+
+td{
+    vertical-align: bottom 
+    ;
+}
+
+tr:hover{
+    background-color: grey;
+}
+
+tr:nth-child(even){
+    background-color: rgb(190, 236, 236);
+    
+    background-color: rgb(179, 117, 117);
+}
+

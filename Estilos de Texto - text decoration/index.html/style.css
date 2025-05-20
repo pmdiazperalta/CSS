@@ -1,0 +1,37 @@
+div{
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 50;
+    margin: 20px;
+    
+}
+/* alineamiento con respecto al elemento puesto */
+
+.overline {
+    text-decoration-line: overline;
+    text-decoration-color: red;
+    text 
+}
+
+
+.line-trough {
+    text-decoration-line: line-through;
+    text-decoration-color: green;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 3px; 
+    /* tickness es para manejar el ancho de la linea */
+}
+
+/* pueden tomar diferentes estilos */
+/* solid, double,dotted, dashed, wavy */
+
+.underline {
+    text-decoration-line: underline;
+    text-decoration-color: hotpink;
+    text-decoration-style: dotted;
+}
+
+.MIX {
+    text-decoration-line: underline line-through;
+}

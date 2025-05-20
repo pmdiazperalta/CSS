@@ -1,0 +1,16 @@
+div{
+    width: 300px;
+    height: 150px;
+    border: 1px solid black;
+    padding: 50;
+    margin: 20px;
+    }
+.uppercase{
+ text-transform: uppercase;
+}
+.lowercase{
+text-transform: lowercase;
+}
+.capitalize{
+text-transform: capitalize;
+}

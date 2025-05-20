@@ -1,0 +1,24 @@
+div{
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    padding: 50;
+    margin: 20px;
+    }
+.uppercase{
+ text-transform: uppercase;
+}
+.lowercase{
+text-transform: lowercase;
+}
+.capitalize{
+text-transform: capitalize;
+}
+
+p{
+    text-indent: 50px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+    text-shadow:  5px -5px rgba(199, 199, 195, 0.884);
+    /* line-height: 1.5; en formato factor, 1 es 100% */
+}
